@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="name1.png" width="75%">
+  <img src="name2.png" width="75%">
 </p>
 
 <p align="center">
